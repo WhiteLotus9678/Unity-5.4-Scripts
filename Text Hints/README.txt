@@ -1,0 +1,1 @@
+Displays text on the screen for a specified amount of time

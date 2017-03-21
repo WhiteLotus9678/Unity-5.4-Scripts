@@ -1,0 +1,1 @@
+Changes the color of the cursor if it the object is interactable
